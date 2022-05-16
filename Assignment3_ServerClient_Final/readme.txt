@@ -25,16 +25,16 @@ make
 
 #1.2 Message Example:
 
-Register - REGISTER Idan 1997 28/28/1997
-Log in - LOGIN Idan 1997 1
+Register - REGISTER Omer 1997 14/04/1997
+Log in - LOGIN omer 1997 1
 Log out - LOGOUT
-Follow - FOLLOW 0 Idan
-Unfollow - FOLLOW 1 Idan
-Post - POST SPL IS THE MOST AWESOME COURSE EVER @Omer
-Private Message - PM Omer DO YOU THINK SPL IS THE MOST AWESOME COURSE EVER?!
+Follow - FOLLOW 0 Omer
+Unfollow - FOLLOW 1 omer
+Post - POST SPL IS THE MOST AWESOME COURSE EVER @Idan
+Private Message - PM Idan DO YOU THINK SPL IS THE MOST AWESOME COURSE EVER?!
 LogStat - LOGSTAT
 Stat - STAT Marina|Adler
-Block - BLOCK Omer
+Block - BLOCK Idan
 
 
 # 2 filtered words - Server->src->main->java->bgu->spl->net->api->Message->ClientToServer->PM
