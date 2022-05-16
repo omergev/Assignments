@@ -26,10 +26,11 @@ make
 #1.2 Message Example:
 
 Register - REGISTER Omer 1997 14/04/1997
-Log in - LOGIN omer 1997 1
+           REGISTER Idan 1234 28/10/1997
+Log in - LOGIN Omer 1997 1
 Log out - LOGOUT
-Follow - FOLLOW 0 Omer
-Unfollow - FOLLOW 1 omer
+Follow - FOLLOW 0 Idan
+Unfollow - FOLLOW 1 Idan
 Post - POST SPL IS THE MOST AWESOME COURSE EVER @Idan
 Private Message - PM Idan DO YOU THINK SPL IS THE MOST AWESOME COURSE EVER?!
 LogStat - LOGSTAT
